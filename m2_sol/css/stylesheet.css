@@ -75,9 +75,6 @@ div, section {
 		width: 19%;
 		padding: 0.5%;
 	}
-	.md2 p {
-		padding-top: 4%;
-	}
 }
 /****************Mobile Version*****************/
 @media (max-width: 767px) {
@@ -91,8 +88,5 @@ div, section {
 	.sm h2 {
 		width: 40%;
 		padding: 1%;
-	}
-	.sm p {
-		padding-top: 30px;
 	}
 }
